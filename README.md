@@ -12,7 +12,7 @@ This site is able to filter animals for adoption based on what type of animal th
 ## Features
 Adoption cards are created on the DOM, and can be filtered to show only the desired animal cards by a listener event for each button.
 
-![Screenshot](2021-02-02.png)
+![2021-02-02](https://user-images.githubusercontent.com/76795299/106633537-ef33c780-654c-11eb-9f63-60f51f9e3974.png)
 ## Project Board / Issue tickets
 I did not make a project board for this project, but I followed the following Issue tickets:
 https://github.com/cmeffley/pet-adoption/issues?q=is%3Aissue+is%3Aclosed
